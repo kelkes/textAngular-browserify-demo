@@ -1,0 +1,17 @@
+{
+  "name": "textangular-browserify-demo",
+  "version": "0.0.1",
+  "description": "textAngular rangy browserify demo",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Wippel <david@trigo.at>",
+  "license": "LGPL",
+  "devDependencies": {
+    "bower-resolve": "^2.2.1",
+    "browserify": "^11.2.0",
+    "gulp": "^3.9.0",
+    "mkdirp": "^0.5.1"
+  }
+}

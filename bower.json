@@ -1,0 +1,27 @@
+{
+  "name": "textAngular-browserify-demo",
+  "version": "0.0.1",
+  "authors": [
+    "David Wippel <david@trigo.at>"
+  ],
+  "description": "textAngular rangy browserify demo",
+  "main": "gulpfile.js",
+  "moduleType": [
+    "node"
+  ],
+  "license": "LGPL",
+  "homepage": "http://www.trigo.at",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "client/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "textAngular": "^1.4.6",
+    "rangy": "^1.3.0"
+  }
+}
