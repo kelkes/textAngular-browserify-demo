@@ -4,7 +4,7 @@
   "description": "textAngular rangy browserify demo",
   "main": "gulpfile.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "gulp": "./node_modules/.bin/gulp"
   },
   "author": "David Wippel <david@trigo.at>",
   "license": "LGPL",
